@@ -1,4 +1,4 @@
-Code taken from [python-doc2txt](https://github.com/ankushshah89/python-docx2txt) and adapted for image detection and moving use-case.
+Code taken from [python-doc2txt](https://github.com/ankushshah89/python-docx2txt) and adapted for image detection and moving use-case (move all Word documents [.docx] containing images to a subfolder).
 
 NOTE: This code will only work with .docx files (at the moment!)
 
